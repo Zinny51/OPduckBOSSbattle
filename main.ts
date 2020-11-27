@@ -164,7 +164,7 @@ let boss: Sprite = null
 let mySprite: Sprite = null
 let bossLife = 0
 bossLife = 48
-info.setLife(100)
+info.setLife(50)
 info.setScore(0)
 music.setVolume(20)
 mySprite = sprites.create(img`
